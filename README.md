@@ -2,7 +2,7 @@
 
 An AI-powered dashboard that helps logistics and warehouse managers decide **how much to stock, when to re-order, and how to deliver**, by forecasting demand, flagging stockout risks, and suggesting efficient delivery routes.
 
-> B.Tech 3rd Year (CS / Data Science) major project, team of 4.
+> B.Tech 3rd Year (Data Science) mini project, team of 4.
 
 ---
 
